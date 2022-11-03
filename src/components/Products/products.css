@@ -1,0 +1,122 @@
+.cont1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ButtonsShop button {
+  width: 180px;
+  height: 40px;
+  margin-right: 50px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.836);
+  font-family: "Montserrat-Regular";
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.ButtonsShop button:hover {
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+.shopCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.productCard {
+  width: 320px;
+  height: 350px;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.836);
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  -webkit-box-shadow: -15px 10px 6px -7px #000000;
+  -moz-box-shadow: -15px 10px 6px -7px #000000;
+  box-shadow: 15px 10px 10px -7px #000000;
+  margin-top: 30px;
+}
+.imgContainer {
+  width: 90%;
+  height: 60%;
+  background-color: rgb(255, 255, 255);
+  margin: 0px auto;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.productCard img {
+  height: 210px;
+}
+.cardBody button {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(0, 0, 0);
+  font-family: "Montserrat-Regular";
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  cursor: pointer;
+}
+.cardBody {
+  width: 90%;
+  height: 40%;
+  margin: 0px auto;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+}
+.cardBody h5 {
+  width: 100%;
+  height: 33.33%;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.cardBody p {
+  width: 100%;
+  height: 33.33%;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.cardBody a {
+  width: 100%;
+  height: 33.33%;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+}
+.loading {
+  background-color: transparent;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  font-size: 30px;
+  color: white;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 760px) {
+  .ButtonsShop {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+  }
+  .ButtonsShop button {
+    width: 120px;
+    margin: 20px;
+  }
+  .productCard {
+    margin: 10px;
+  }
+}

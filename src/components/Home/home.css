@@ -1,0 +1,82 @@
+.homeContainer {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5)
+    url(../../images/Loc_025_Roturas-Tempo-Mdp--scaled.jpg);
+  background-blend-mode: darken;
+  opacity: 10;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.homeTitle {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 60px;
+  animation: fadeIn 3s;
+}
+.homeContainer h1 {
+  font-family: "Montserrat-Bold";
+  font-size: 3em;
+
+  margin-bottom: 18px;
+}
+.homeContainer h2 {
+  font-family: "Montserrat-SemiBold";
+  font-size: 1.5em;
+  width: 70%;
+  margin-bottom: 38px;
+}
+.homeContainer button {
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  color: #fff;
+  font-family: "Montserrat-SemiBold";
+  background-color: transparent;
+
+  cursor: pointer;
+}
+.homeContainer button:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  transition: 0.3s ease-in-out;
+}
+.redes {
+  width: 50px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  position: absolute;
+  bottom: 120px;
+  right: 30px;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.redes::before {
+  content: "";
+  margin-bottom: 100px;
+  margin-right: 10px;
+  border-top: 0.12rem solid rgb(255, 255, 255);
+  width: 12rem;
+  rotate: 90deg;
+}
+.iconos {
+  display: flex;
+  flex-direction: column;
+}
+.iconos i {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 760px) {
+  .redes {
+    display: none;
+  }
+}

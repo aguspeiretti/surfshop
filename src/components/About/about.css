@@ -1,0 +1,158 @@
+.aboutContainer {
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.5) url("../../images/maxresdefault.jpg");
+  background-blend-mode: darken;
+  opacity: 10;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+  font-family: "Montserrat-Regular";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.contenedor {
+  display: flex;
+  width: 90%;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+.nosotros {
+  width: 45%;
+  margin: 0 auto;
+  font-family: "Montserrat-Regular";
+}
+.nosotros p {
+  margin-top: 30px;
+  font-size: 18px;
+}
+.titulo2 {
+  margin-top: 30px;
+}
+.imagen {
+  width: 50%;
+  height: 90%;
+  background-image: url(../../images/recorte.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 4px;
+  opacity: 1;
+}
+.about-Button {
+  width: 200px;
+  height: 40px;
+  border-radius: 30px;
+  border: none;
+  background-color: #fff;
+  font-family: "Montserrat-Regular";
+  color: black;
+  font-weight: 600;
+  margin-top: 50px;
+  cursor: pointer;
+  opacity: 0;
+}
+.about-Button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.skills {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.skills img {
+  height: 60px;
+  padding: 0;
+  filter: invert(1);
+}
+.boxesContainer {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.boxes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat-SemiBold";
+}
+.boxes p {
+  margin-top: 20px;
+}
+.titulo1 {
+  opacity: 0;
+}
+.titulo1-active {
+  animation: fadeIn 1s;
+  opacity: 1;
+}
+.parrafo1 {
+  opacity: 0;
+}
+.parrafo1-active {
+  animation: fadeIn 1s;
+  opacity: 1;
+}
+.titulo2 {
+  opacity: 0;
+}
+.titulo2-active {
+  animation: fadeIn 1s;
+  opacity: 1;
+  margin-top: 30px;
+}
+.parrafo2 {
+  opacity: 0;
+}
+.parrafo2-active {
+  animation: fadeIn 1s;
+  opacity: 1;
+}
+.aboutButton-active {
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid white;
+  background-color: transparent;
+  font-family: "Montserrat-Regular";
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  margin-top: 50px;
+  cursor: pointer;
+  animation: fadeIn 1s;
+  opacity: 1;
+}
+.aboutButton-active:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border: 1px solid white;
+}
+
+@media screen and (max-width: 760px) {
+  .contenedor {
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+  }
+  .nosotros {
+    width: 100%;
+  }
+  .imagen {
+    display: none;
+  }
+  .skills {
+    padding-top: 40px;
+    z-index: 1;
+  }
+}

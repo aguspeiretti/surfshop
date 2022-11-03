@@ -1,0 +1,130 @@
+.contactContainer {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5) url(../../images/images.jpg);
+  background-blend-mode: darken;
+  opacity: 10;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: "Montserrat-Regular";
+}
+
+.aMessage {
+  width: 40%;
+  height: 50%;
+
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+  animation: slideInUp;
+  animation-duration: 1s;
+}
+.title {
+  margin-bottom: 50px;
+}
+.info {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: aliceblue;
+  font-family: "Montserrat-Regular";
+}
+.info div {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.info div h2 {
+  font-size: 20px;
+}
+.info div p {
+  font-size: 15px;
+}
+.inputs input {
+  color: #fff;
+  outline: none;
+  background-color: #dfe;
+  border: 0;
+}
+.inputs input {
+  color: #fff;
+  outline: none;
+  background-color: #dfe;
+  border: 0;
+}
+.inputs {
+  display: flex;
+  flex-wrap: wrap;
+  color: #fff;
+  font-family: "Montserrat-Regular";
+  font-size: 15px;
+}
+.inputs div {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.inputs div input {
+  width: 90%;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 40px;
+}
+.Message {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+.Message textarea {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+
+  color: #fff;
+  outline: none;
+
+  border: 0;
+}
+.pay {
+  height: 50px;
+  width: 180px;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #000000;
+  border: none;
+  font-family: "Montserrat-Bold";
+  margin-top: 40px;
+  cursor: pointer;
+}
+.pay:hover {
+  background-color: #fff;
+  color: #000000;
+}
+.gracias {
+  color: white;
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+@media screen and (max-width: 760px) {
+  .contactContainer {
+    justify-content: center;
+  }
+  .aMessage {
+    width: 80%;
+    height: 80%;
+    justify-content: start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    animation: slideInUp;
+    animation-duration: 1s;
+  }
+}

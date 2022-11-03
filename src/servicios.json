@@ -1,0 +1,31 @@
+[
+    {
+        "title":"PLAN INICIAL",
+        "price":2500,
+        "clases":"1",
+        "objetivo":"Tu 1er Ola",
+        "id": "1"
+
+    },
+    {
+        "title":"CURSO CORTO",
+        "price":12000,
+        "clases":"5",
+        "objetivo":"Tu primer Ola mediana",
+        "id": "2"
+    },
+    {
+        "title":"CURSO MEDIO",
+        "price":20000,
+        "clases":"10",
+        "objetivo":"Surfear por tu cuenta",
+        "id": "3"
+    },
+    {
+        "title":"INDIVIDUAL",
+        "price":4000,
+        "clases":"1",
+        "objetivo":"Progreso",
+        "id": "4"
+    }
+]

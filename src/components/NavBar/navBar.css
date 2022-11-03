@@ -1,0 +1,120 @@
+.navContainer {
+  width: 100%;
+  height: 70px;
+  /* background-color: rgba(0, 0, 0, 0.205); */
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navContainer img {
+  height: 50px;
+  padding-left: 50px;
+  filter: invert(1);
+}
+ul {
+  display: flex;
+  padding-right: 50px;
+}
+ul:before {
+  content: "";
+  margin-top: 10px;
+  margin-right: 50px;
+  border-top: 0.12rem solid rgb(255, 255, 255);
+  width: 14rem;
+}
+li {
+  color: #fff;
+  list-style: none;
+  padding-right: 20px;
+  font-size: 13px;
+  font-weight: bolder;
+  font-family: "Montserrat-SemiBold";
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+  font-family: "Montserrat-Regular";
+}
+ul i {
+  color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.navContainerResposive {
+  display: none;
+}
+@media screen and (max-width: 760px) {
+  .navContainer {
+    display: none;
+  }
+  .navContainerResposive {
+    display: block;
+  }
+  .barIcon {
+    background-color: transparent;
+    position: absolute;
+    top: 20px;
+    z-index: 2000;
+    color: #ffffff;
+  }
+  .menubar {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  .linksContainer {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(31, 30, 30);
+    position: absolute;
+    top: -100vh;
+  }
+  .linksContainer ul {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+  .linksContainer ul:before {
+    display: none;
+  }
+  .linksContainer ul li {
+    font-size: 30px;
+    margin-top: 60px;
+  }
+  .linksContainer ul i {
+    font-size: 30px;
+    margin-top: 40px;
+  }
+}
+.linksContainerOpen {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(31, 30, 30);
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+}
+.linksContainerOpen ul {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  margin-top: 50px;
+}
+.linksContainerOpen ul:before {
+  display: none;
+}
+.linksContainerOpen ul li {
+  font-size: 30px;
+  margin-top: 60px;
+}
+.linksContainerOpen ul i {
+  font-size: 30px;
+  margin-top: 40px;
+}

@@ -1,0 +1,214 @@
+
+
+ [
+  {
+    "category": "boards",
+    "title": "AZTRON TABLA DE WAKESURF COMET EVO ",
+    "price": 122500 ,
+   "description": "CONSTRUCCIONE EN EPOXY. CORAZON EN FOAM RECUBIERTA CON MULTIPLE CAPAS DE FIBRA Y RESINA. ALTO 160 CM. ANCHO 53,3 CM. PESO 4 KGS. COLA DIAMOND ROUND. SOPORTE DE ARCO EN EL ANTIDESLIZANTE TRASERO. 3 QUILLAS DE 1,7 PULGADAS",
+    "image": "../public/productos/t1.png",
+    "id": "1"
+  },
+
+  {
+    "category": "boards",
+    "title": "E2 SURF D B4BC FUN ",
+    "price": 131500,
+   "description": "CARACTERISTICAS: TABLA EN MATERIAL EPOXY IMPORTADA, INCLUYE DECK Y QUILLAS . MAXIMA FLOTABILIDAD, LIVIANA Y GRAN RESISTENCIA A IMPACTOS. ACABADO MATE EN PLANO PARA MAYOR VELOCIDAD Y BORDES PULIDOS. LAMINA DE REFUERZO EN DECK.",
+    "image": "../public/productos/t7.webp",
+    "id": "7"
+  },
+  {
+    "category": "boards",
+    "title": "E2 SURF HYBRID ",
+    "price": 109500,
+   "description": "CARACTERISTICAS: TABLA EN MATERIAL EPOXY IMPORTADA, INCLUYE DECK, Y QUILLAS . MAXIMA FLOTABILIDAD, LIVIANA Y GRAN RESISTENCIA A IMPACTOS. ACABADO MATE EN PLANO PARA MAYOR VELOCIDAD Y BORDES PULIDOS. LAMINA DE REFUERZO EN DECK.",
+    "image": "../public/productos/t3.jpg",
+    "id": "3"
+
+  }, 
+  {
+    "category": "boards",
+    "title": "LIQUID SHREDDER TABLA RESCATE SERIES",
+    "price": 360000,
+   "description": "Diseño para un rescate rápido de 4 personas. Protector de punta y cola. Alma doble de aluminio con refuerzo en fibra de carbono. Válvula ecualizadora de aire interno. Bordes reforzados. Quilla flexible de 5». Grip acolchado anti-deslizante. 3 sets de sujetadores o asas extra fuertes.",
+    "image": "../public/productos/t4.png",
+    "id": "4"
+  },
+  {
+    "category": "boards",
+    "title": "E2 SURF B4BC FISH ",
+    "price": 109900,
+   "description": "CARACTERISTICAS: TABLA EN MATERIAL EPOXY IMPORTADA, INCLUYE DECK, Y QUILLAS . MAXIMA FLOTABILIDAD, LIVIANA Y GRAN RESISTENCIA A IMPACTOS. ACABADO MATE EN PLANO PARA MAYOR VELOCIDAD Y BORDES PULIDOS. LAMINA DE REFUERZO EN DECK.",
+    "image": "../public/productos/t6.jpg",
+    "id": "6"
+  },
+  {
+    "category": "boards",
+    "title": "LIQUID SHREDDER TABLA ELEMENT C/PITA 4’2» ",
+    "price":  77900,
+   "description": "Incluye: Protector de punta y cola. Pita. Alma doble de aluminio con refuerzo en fibra y carbono. Válvula ecualizadora de aire interno. Dos quillas flexibles de 3″. Recomendado para niños entre 5 y 8 años. Largo: 4.2″(1,27 mts.), ancho:19.2″( 49 cm), espesor: 6 cm . Peso 1.95 kgs. Color azulino y naranja.",
+    "image": "../public/productos/t5.jpg",
+    "id": "5"
+  },
+  {
+    "category": "boards",
+    "title": "LIQUID SHREDDER TABLA LONG CUZCO 9’0» ",
+    "price": 195500,
+   "description": "Incluye: Protector de punta y cola. Alma doble de aluminio con refuerzo en fibra y carbono. Válvula ecualizadora de aire interno. Tres quillas flexibles de 3″ y 5″ Largo: 2,75 mts, ancho: 59 cm, espesor: 8,9 cm – Peso 8 kgs. 97 litros. Color: AQUA y PERLA .",
+    "image": "../public/productos/t2.png",
+    "id": "2"
+  },
+  {
+    "category": "boards",
+    "title": "TORQ CARBON T.E.T. COLOR RAIL FISH ",
+    "price": 179800,
+   "description": "TABLA CON CORAZON DE EPS SUPER LIVIANO CUBIERTA EN TELAS DE FIBRA DE VIDRIO BIAXIALES Y LAMINADA CON RESINA EPOXY . 5 QUILLAS SIST. FUTURE. INCLUYE QUILLAS. IDEAL",
+    "image": "../public/productos/t8.png",
+    "id": "8"
+  },
+  {
+    "category": "boards",
+    "title": " TORQ CLASSIC LONG",
+    "price": 202000,
+   "description": "TABLA CON CORAZON DE EPS SUPER LIVIANO CUBIERTA EN TELAS DE FIBRA DE VIDRIO BIAXIALES Y LAMINADA CON RESINA EPOXY . 2+1 QUILLAS SIST. FUTURE. INCLUYE QUILLAS.",
+    "image": "../public/productos/t9.png",
+    "id": "9"
+  },
+  {
+    "category": "boards",
+    "title": "TORQ CLASSIC COLOR FUN ",
+    "price": 165000,
+   "description": "TABLA CON CORAZON DE EPS SUPER LIVIANO CUBIERTA EN TELAS DE FIBRA DE VIDRIO BIAXIALES Y LAMINADA CON RESINA EPOXY . 5 QUILLAS SIST. FUTURE. INCLUYE QUILLAS.",
+    "image": "../public/productos/t10.png",
+    "id": "10"
+  },
+  {
+    "category": "suits",
+    "title": "EOS ENTERO M/LARGA GBS 4/3 mm PEGADO ",
+    "price": 109900,
+   "description": "Neoprene Magna Flex en todo el cuerpo. Costuras GBS, pegadas y cosidas. Goma en pecho y espalda.Refuerzos internos en intersecciones con tape. Nano Tritec kneepad. Cierre YKK en espalda. Cuerda porta llave elástica interna. Heavy Duty zipper. Cierre de cuello con velcro. Talles: 5/6-  Color: negro con gris y detalles rosas.",
+    "image": "../public/productos/n1.jpg",
+    "id": "11"
+  },
+  {
+    "category": "suits",
+    "title": "PRIME ENTERO M/LARGA GBS 4/3 MM FRONT ZIP ",
+    "price": 71500,
+   "description": "ENTERIZO M/L. ESPESOR 4/3 MM. CON CIERRE EN EL PECHO. 100% UNIONES GBS CON SELLADO EXTERIOR LIQUIDO FLUID SEAL, TRIPLE PEGADO Y COSTURA INVISIBLE. NEOPRENE DE ALTA PERFORMANCE EVO FLEX SUPER LIVIANO Y CON MAXIMA ELASTICIDAD EN TODO EL CUERPO. TALLE:8-10-",
+   "image": "../public/productos/n2.jpg",
+    "id": "12"
+  },
+  {
+    "category": "suits",
+    "title": "PRO 3 ENTERO M/LARGA FLATLOCK ",
+    "price": 49300,
+   "description": "Quadra Flex Neoprene en hombros y mangas Combinacion de 2 y 3 mm en todo el cuerpo Goma en pecho y espalda Superflex kneepads Costuras Flatlock Corte anatomico Boslillo interno Heavy Duty zipper Cierre de cuello con velcro Talles: 8, 10, 12 .",
+   "image": "../public/productos/n3.jpg",
+    "id": "13"
+  },
+  {
+    "category": "suits",
+    "title": " SIROKO ENTERO M/CORTA GBS",
+    "price": 59300,
+   "description": "100% Neoprene elasto 2/2 mm Magna Flex en todo el cuerpo. Costuras GBS, pegadas y cosidas S-FLEX TAPE en cuello, muñecas , tobillos y zonas críticas. Goma en pecho. Nano Tritec kneepad Corte anatomico Boslillo interno Heavy Duty zipper Cierre de cuello con velcro Talles: S-MS-M- Colores: negro",
+   "image": "../public/productos/n4.jpg",
+    "id": "14"
+  },
+  {
+    "category": "suits",
+    "title": "GUANTES GBS 2 mm PEGADOS ",
+    "price": 8700,
+   "description": "ESPESOR 2 MILIMETROS. COSTURA GBS, TRIPLE PEGADO CON COSTURA INVISIBLE. MALLA INTERNA METALITE. MATERIAL DOBLE NYLON CON GRIP EN PALMA. TALLES XS-S-M",
+   "image": "../public/productos/n5.jpg",
+    "id": "15"
+  },
+  {
+    "category": "suits",
+    "title": " SOMBRERO ACUATICO C/AJUSTE",
+    "price": 7900,
+   "description": "SOMBRERO ACUATICO MULTIFUCIOAL. TELA RIPSTOP ELASTIZADA. AJUSTE EN BARBILLA POR CORREA DE NEOPRENE AJUSTABLE CON CLIP PLASTICO. VIENE EN DOS COLORES, GRIS CLARO Y GRIS OSCURO Y EN DOS TALLES,  S/M DE 55 A 57 CM Y L/XL DE 58 A 60 CM.",
+   "image": "../public/productos/n6.jpg",
+    "id": "16"
+  },
+  {
+    "category": "suits",
+    "title": "PONCHO CAMBIADOR ",
+    "price": 11900,
+   "description": "PONCHO CAMBIADOR DE TOALLA MICROFIBRA DE SECADO RAPIDO. CAPUCHA Y BOLSILLO DELANTERO. BORDADO EN FRENTE. COLOR AZUL, GRIS CLARO Y NEGRO. TALLE 1  ANCHO 65 CM Y ALTO 90 CM PARA USUARIO ENTRE 1,30 MTS Y 1,55 MTS.TALLE 2 ANCHO 90 CM Y ALTO 1,10 MTS  PARA USUARIO ENTRE 1,70 MTS Y 1,85 MTS.",
+   "image": "../public/productos/n7.jpg",
+    "id": "17"
+  },
+  {
+    "category": "suits",
+    "title": "REMERA LYCRA M/CORTA LISA ESTAMPADA ",
+    "price": 9400,
+   "description": "REMERA MANGA CORTA LISA DE LYCRA. ESPESOR DE 8 ONZAS. COSTURA FLATLOCK. PROTECCION UV. COLOR ROJO. ESTAMPADA. TALLES: 4 ,6 , 8 , 10 , 12 , 14 , 16. COLOR ROJO Y AZUL.",
+   "image": "../public/productos/n8.jpg",
+    "id": "18"
+  },
+  {
+    "category": "suits",
+    "title": " VAPOR CAPUCHA C/CUELLO Y VISERA",
+    "price": 13700,
+   "description": "ESPESOR 3 MM. COSTURA GBS, TRIPLE PEGADO CON COSTURA INVISIBLE. MALLA INTERNA THERMOFIBER. PANELES X-FLEX COLOR NEGRO TALLES:  L-XL",
+   "image": "../public/productos/n9.jpg",
+    "id": "19"
+  },
+  {
+    "category": "accesories",
+    "title": "QUILLA AZTRON CETRAL 9 PULGADAS ",
+    "price": 4300,
+   "description": "Liviana, duradera y confiable. Medida 9 pies ALL AROUND. Material nylon reforzado moldeado. Resistente a golpes y rayaduras. No requiere herramientas.",
+   "image": "../public/productos/a1.png",
+    "id": "20"
+  },
+  {
+    "category": "accesories",
+    "title": "QUAD FIN CORE-FLEX ONOFRE FCS ALL MERRICK ",
+    "price": 17200,
+   "description": "QUAD FIN. SISTEMA FCS. MATERIAL HEX CORE HONEYCOMB TALLE: MEDIANO Y  LARGE. COLOR: ROJO Y AMARILLO.",
+   "image": "../public/productos/a2.jpg",
+    "id": "21"
+  },
+  {
+    "category": "accesories",
+    "title": "PITA PRO 6′ ",
+    "price": 4100,
+   "description": "MEDIDA: 1,8 mt. GROZOR 6 mm. DOBLE ROTOR DE ACERO INOXIDABLE. TOBILLERA RECUBIERTA EN NEOPRENE PARA UN MAXIMO CONFORT Y PERFORMANCE. OLAS DE 0,9- 1,5 m. COLORES SURTIDOS.",
+   "image": "../public/productos/a3.jpg",
+    "id": "22"
+  },
+  {
+    "category": "accesories",
+    "title": "PITA SUP 10′ TOBILLO COILED ",
+    "price": 5100,
+   "description": "MEDIDA: 3,05 mt. GROZOR 8 mm. ROTOR DE ACERO INOXIDABLE. PITA ESPIRAL DE PVC LIVIANA. TOTAL LIBERTAD PARA MOVIMIENTOS AL MOMENTO DE LA REMADA. TOBILLERA RECUBIERTA EN NEOPRENE PARA UN MAXIMO CONFORT Y PERFORMANCE. OLAS DE 1- 3 m. PESO 200 GRS. COLOR AZUL",
+   "image": "../public/productos/a4.jpg",
+    "id": "23"
+  },
+  {
+    "category": "accesories",
+    "title": "FUNDA SUP SUNTECH ",
+    "price": 35000,
+   "description": "FUNDA PROTECTORA PARA TABLA DE SUP.TELA REFLECTIVA ANTI DESGARRO.CIERRE DE PLASTICO (INOXIDABLE) BOLSILLO INTERNO VELCRO PARA QUILLAS, CERA, PEINE, ETC.. REFUERZOS EN BORDES. ",
+   "image": "../public/productos/a5.jpg",
+    "id": "24"
+  },
+  {
+    "category": "accesories",
+    "title": " PARAFINA TOUR WARM/TROPICAL",
+    "price": 880,
+   "description": "TEMPERATURA DEL AGUA ENTRE 17º Y 23º . COLOR: BLANCA. PAN DE 85 grs.",
+   "image": "../public/productos/a6.webp",
+    "id": "25"
+  },
+  {
+    "category": "accesories",
+    "title": "PARAFINA TOUR COOL/COLD ",
+    "price": 880,
+   "description": "TEMPERATURA DEL AGUA ENTRE 13,5º Y 17º . COLOR: BLANCA. PAN DE 85 grs.",
+   "image": "../public/productos/a7.webp",
+    "id": "26"
+  }
+]
